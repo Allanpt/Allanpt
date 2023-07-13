@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Allan+Paixão+Tavares;I'm+23+years+old;I'm+from+Brazil;I'm+graduating+in+Software+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Allanpt&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allanpt&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Allanpt&show_icons=true&count_private=true&hide_border=true&title_color=FF9A73&icon_color=FF9A73&text_color=FF9A73&bg_color=0d1117" alt="Allan Tavares github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allanpt&layout=compact&hide_border=true&title_color=FF9A73&text_color=FF9A73&bg_color=0d1117" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Allanpt&bg_color=ffffff&color=000000&line=ff2600&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
